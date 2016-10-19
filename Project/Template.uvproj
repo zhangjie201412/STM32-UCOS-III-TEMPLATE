@@ -550,6 +550,11 @@
               <FileType>1</FileType>
               <FilePath>..\UCOSIII\UCOS_BSP\uc_bsp.c</FilePath>
             </File>
+            <File>
+              <FileName>uc_bsp_int.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\UCOSIII\UCOS_BSP\uc_bsp_int.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
